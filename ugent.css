@@ -1,0 +1,50 @@
+#footer_1 {
+    background: #1E64C8;
+    color: white;
+}
+
+
+#time {
+    float: right
+}
+
+section footer {
+    text-indent: 40px;
+    border-width: thin;
+    border-color: silver;
+    border-style: solid;
+
+}
+
+section figure {
+    font-style: italic;
+}
+
+
+aside {
+    padding: 10px;
+    border-style: dotted;
+    border-width: thin;
+    border-color: #1E64C8;
+    float: right;
+    margin: 15px;
+    width: 30%;
+    font-variant: small-caps;
+}
+
+figure img {
+    width: 340px;
+    height: 180px;
+}
+
+.regels {
+    color: #1E64C8;
+}
+
+#titel:hover {
+    background: #FFD200
+}
+
+legend {
+    color: red;
+}
